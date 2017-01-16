@@ -1,0 +1,13 @@
+patient_id,DOB,Gender,marital_status,smoking_status,city
+1,2001-08-12,F,married,once,noida
+2,1976-12-12,M,single,once,ghaziabad
+3,1976-07-24,M,married,once,gurgaon
+4,1976-06-26,M,single,once,maneshar
+5,1975-09-05,F,married,once,bhiwari
+6,1978-05-04,F,married,once,noida
+7,1976-04-12,M,married,once,kanpur
+8,1973-03-19,M,single,once,lucknow
+9,1979-02-29,M,single,once,ghaziabad
+10,1980-01-17,F,married,once,orai
+11,1980-10-15,M,married,once,rampura
+12,1976-11-12,F,married,once,noida

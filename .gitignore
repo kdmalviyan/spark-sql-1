@@ -1,1 +1,8 @@
-/bin/
+bin**
+checkpoint**
+project**
+target**
+.project
+.classpath
+.cache-main
+*-warehouse

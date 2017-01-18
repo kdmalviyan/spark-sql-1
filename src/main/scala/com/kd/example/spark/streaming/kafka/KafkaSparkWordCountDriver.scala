@@ -1,4 +1,4 @@
-package com.spark.streaming.kafka
+package com.kd.example.spark.streaming.kafka
 
 import org.apache.spark.SparkConf
 import org.apache.spark.streaming.Minutes

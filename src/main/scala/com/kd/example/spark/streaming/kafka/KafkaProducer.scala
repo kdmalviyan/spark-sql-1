@@ -1,4 +1,4 @@
-package com.spark.streaming.kafka
+package com.kd.example.spark.streaming.kafka
 
 import java.util.HashMap
 
